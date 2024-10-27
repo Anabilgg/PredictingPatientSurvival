@@ -1,3 +1,3 @@
 This project (written in french) was made during the fall semester 2023 for the lecture INFO4301 - Machine Learning at the University of Moncton.
 
-The purpose of the project was to try different approaches on multiple machine learning algorithms (random forests, boosted trees, logistic regression and svms) to predict the survival of patients with heart failure.
+The purpose of the project was to try different approaches on multiple machine learning algorithms (random forests, boosted trees, logistic regression and svms) to predict the survival of patients with heart failure (*Davide Chicco, Giuseppe Jurman. "Machine leaming can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020). https://dolorg/10.1186/512911-020-1023-5*).
